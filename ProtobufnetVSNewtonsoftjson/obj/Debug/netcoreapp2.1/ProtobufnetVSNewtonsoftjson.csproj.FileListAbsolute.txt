@@ -1,0 +1,11 @@
+C:\Users\Mustafa\source\repos\ProtobufnetVSNewtonsoftjson\ProtobufnetVSNewtonsoftjson\bin\Debug\netcoreapp2.1\ProtobufnetVSNewtonsoftjson.deps.json
+C:\Users\Mustafa\source\repos\ProtobufnetVSNewtonsoftjson\ProtobufnetVSNewtonsoftjson\bin\Debug\netcoreapp2.1\ProtobufnetVSNewtonsoftjson.runtimeconfig.json
+C:\Users\Mustafa\source\repos\ProtobufnetVSNewtonsoftjson\ProtobufnetVSNewtonsoftjson\bin\Debug\netcoreapp2.1\ProtobufnetVSNewtonsoftjson.runtimeconfig.dev.json
+C:\Users\Mustafa\source\repos\ProtobufnetVSNewtonsoftjson\ProtobufnetVSNewtonsoftjson\bin\Debug\netcoreapp2.1\ProtobufnetVSNewtonsoftjson.dll
+C:\Users\Mustafa\source\repos\ProtobufnetVSNewtonsoftjson\ProtobufnetVSNewtonsoftjson\obj\Debug\netcoreapp2.1\ProtobufnetVSNewtonsoftjson.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\ProtobufnetVSNewtonsoftjson\ProtobufnetVSNewtonsoftjson\obj\Debug\netcoreapp2.1\ProtobufnetVSNewtonsoftjson.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\ProtobufnetVSNewtonsoftjson\ProtobufnetVSNewtonsoftjson\obj\Debug\netcoreapp2.1\ProtobufnetVSNewtonsoftjson.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\ProtobufnetVSNewtonsoftjson\ProtobufnetVSNewtonsoftjson\bin\Debug\netcoreapp2.1\ProtobufnetVSNewtonsoftjson.pdb
+C:\Users\Mustafa\source\repos\ProtobufnetVSNewtonsoftjson\ProtobufnetVSNewtonsoftjson\obj\Debug\netcoreapp2.1\ProtobufnetVSNewtonsoftjson.dll
+C:\Users\Mustafa\source\repos\ProtobufnetVSNewtonsoftjson\ProtobufnetVSNewtonsoftjson\obj\Debug\netcoreapp2.1\ProtobufnetVSNewtonsoftjson.pdb
+C:\Users\Mustafa\source\repos\ProtobufnetVSNewtonsoftjson\ProtobufnetVSNewtonsoftjson\obj\Debug\netcoreapp2.1\ProtobufnetVSNewtonsoftjson.csprojAssemblyReference.cache
